@@ -1,0 +1,96 @@
+/* No CSS */ /*# sourceMappingURL=index.css.map */
+.header {
+  background-color: rgb(211, 51, 11);
+}
+li {
+  margin: 0 20px;
+}
+.main {
+  height: 100%;
+  width: 100%;
+  background-image: url('images/image.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 100px 0px;
+}
+.text {
+  padding: 10px;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 800;
+}
+.para {
+  color: white;
+  margin-top: 40px;
+  font-size: 20px;
+  width: 30%;
+  margin-left: 35%;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid rgb(211, 51, 11);
+  background-color: rgb(211, 51, 11);
+  font-weight: 700;
+}
+.cont1 {
+  text-align: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('https://lh3.googleusercontent.com/proxy/o70Sp01ujtYdRlSXs5jcpWSuoTVp5vWT8wqmLOvKagwmiZxXlw2ZaNjLO3Eq9hq0jeedKU1Y3qdlkLD2rxsqQcIFb11N1EXl6NmaWr59OilJJ36iEFITiSNOTQfI-JlGAe0S2f8nhSA');
+}
+.cont2 {
+  text-align: center;
+  background-image: url('https://thumbs.dreamstime.com/b/chakaryuh-devar-village-uttarakhand-ckakvyuh-pandas-nrita-form-dance-ukhimath-133393410.jpg');
+}
+.cont3 {
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/207/277/137/ancient-tamil-valluvar-statue-india-wallpaper-preview.jpg');
+}
+.cont {
+  text-align: center;
+  height: 400px;
+  margin: 5px 5px;
+  border-radius: 5px;
+  margin-left: 40px;
+}
+.cont:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.3s;
+}
+.select1{
+  padding:10px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px gray;
+}
+.state {
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.name {
+  font-size: 25px;
+}
+.url1 {
+  margin-top: 300px;
+
+  border: none;
+  background-color: rgb(211, 51, 11);
+}
+.url2 {
+  color: aliceblue;
+}
+.url2:hover {
+  color: aliceblue;
+}
+.footer {
+  height: 65px;
+  background-color: black;
+}
+.fhead {
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  color: wheat;
+}
